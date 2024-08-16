@@ -19,4 +19,8 @@ python3 clipped.py
 - **Request Frequency**: The script will send requests continuously and rapidly, creating a new thread for each request. This will continue indefinitely until manually stopped.
 - **Monitoring**: You can monitor the output in real-time to see the URLs being tested and the corresponding HTTP status codes.
 
-This setup ensures that you're making `GET` requests and receiving the full response, including the status code, for each URL variation. Let me know if you need any further adjustments or features!
+![Kraken hitting Hackerone ](https://raw.githubusercontent.com/DeadmanXXXII/Kraken/main/Screenshot_20240816-100715.png)
+
+![Kraken hitting Hackerone ](https://raw.githubusercontent.com/DeadmanXXXII/Kraken/main/Screenshot_20240816-100715.png)
+
+![Kraken hitting Hackerone ](https://raw.githubusercontent.com/DeadmanXXXII/Kraken/main/Screenshot_20240816-100715.png)
